@@ -34,4 +34,6 @@ setelah anda menjalankan gradle, maka akan tampil hasil berikut :
 Hello, Yusgar! Welcome to Gradle World!
    ```
 
+## Tampilan gambar 
+https://raw.githubusercontent.com/YusgarYRY/Tugas16_module18/db73af074555cbff16515fcd937cf0f12fc25b9b/idea64_Hex64AZJf8.png
 
